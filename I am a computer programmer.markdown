@@ -45,9 +45,9 @@ Coding everynights
 Programming is my life...
 
 I'm all into REGEX  
-I love WGET to  
+I love WGET too  
 Bourne Again Sheel is my best  
-My licence use GNU  
+My license is GNU  
 
 I don't know web 2.0  
 Facebook and Flickr suck  
