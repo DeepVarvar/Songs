@@ -5,9 +5,7 @@ Credits
 -------
 
 Written by Nicolas Lupien
-
 Translate and adaptation for Russian language: DeepVarvar
-
 Перевод и адаптация на руский: DeepVarvar
 
 
