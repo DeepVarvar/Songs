@@ -1,10 +1,14 @@
-I am a computer programmer
+
+Гимн любителя покодить на чистых сях под Линукс
 ==========================
 
 Credits
 -------
 
 Written by Nicolas Lupien
+
+Translate and adaptation for Russian language: DeepVarvar
+Перевод и адаптация на руский: DeepVarvar
 
 
 Links
@@ -17,47 +21,46 @@ Twitter: <http://twitter.com/niclupien>
 Blog: <http://niclupien.com>
 
 
-Chords
+Аккорды
 ------
 
 C Am F G
 
 
-Lyrics
+Слова (как говориться - из песни не выкинешь)
 ------
 
-I like coding in C  
-Vi is my bestfriend  
-A prompt is all I need  
-I don't have any breakpoints  
+Люблю я чистый СИ
+А ВИМ мой лучший друг
+Строчить я буду код
+Как будто пулемёт
 
-I use external library  
-I know what are make files  
-I don't know what OO means  
-CVS cares of my files
+Я либу взял твою
+Знакома мне она
+Какое ООП?
+Ведь я на чистых СЯХ!
 
-Coding everyday  
-Coding everynight  
-With a mug of coffee  
-In a room with no lights  
-Coding everyday  
-Coding everynights  
-Programming is my life...
+Кодить каждый день
+Кодить по ночам
+Без света в темноте
+И кофе на столе
+Кодить каждый день
+Кодить по ночам
+Призвание моё...
 
-I'm all into REGEX  
-I love WGET too  
-Bourne Again Sheel is my best  
-My license is GNU  
+ПоГРЕПать регуляркой
+И ВГЕТом файл скачать
+Нет лучше БАШа штуки
+Я всех порву за ГНУ
 
-I don't know web 2.0  
-Facebook and Flickr suck  
-What the hell is django  
-Who said that ruby rocks?  
+А что за веб-два-ноль?
+Фейсбук или Вконтакте?
+И все эти какашки - джанго, руби, пхп?
 
-Coding everyday  
-Coding everynight  
-With a mug of coffee  
-In a room with no lights  
-Coding everyday  
-Coding everynights  
-Programming is my life...
+Кодить каждый день
+Кодить по ночам
+Без света в темноте
+И кофе на столе
+Кодить каждый день
+Кодить по ночам
+Призвание моё...
